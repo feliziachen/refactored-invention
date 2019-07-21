@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bukalapak.com
+Token: 08b1d348c48519a3fa3b6a8ee925600751a7a523e76c2bb94b5e56308bff87d3
